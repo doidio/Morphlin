@@ -1,4 +1,4 @@
-#include "morphlin.h"
+#include "Morphlin.h"
 
 Morphlin::Morphlin(QWidget *parent)
 	: QMainWindow(parent)

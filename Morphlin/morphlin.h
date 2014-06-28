@@ -2,7 +2,7 @@
 #define MORPHLIN_H
 
 #include <QtWidgets/QMainWindow>
-#include "ui_morphlin.h"
+#include "ui_Morphlin.h"
 
 class Morphlin : public QMainWindow
 {

@@ -4,3 +4,8 @@
 *.suo
 *.vcxproj
 *.filters
+*.dll
+*.tlog
+*.obj
+*.log
+*.user
