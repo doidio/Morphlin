@@ -83,13 +83,11 @@
     <CustomBuild Include="ImageKit.ui">
       <Filter>Form Files</Filter>
     </CustomBuild>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="GeneratedFiles\ui_Morphlin.h">
+    <CustomBuild Include="GeneratedFiles\ui_ImageKit.h">
       <Filter>Generated Files</Filter>
-    </ClInclude>
-    <ClInclude Include="GeneratedFiles\ui_ImageKit.h">
+    </CustomBuild>
+    <CustomBuild Include="GeneratedFiles\ui_Morphlin.h">
       <Filter>Generated Files</Filter>
-    </ClInclude>
+    </CustomBuild>
   </ItemGroup>
 </Project>

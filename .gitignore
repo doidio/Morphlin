@@ -6,7 +6,10 @@
 *.user
 *.sln.docstates
 *.filters
+<<<<<<< HEAD
 *.vcxproj
+=======
+>>>>>>> origin/master
 
 # Build results
 [Dd]ebug/
